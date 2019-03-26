@@ -1,2 +1,2 @@
 # cypress-node-dubnium
-Cypress test using Node dubnium
+Cypress testing using Node dubnium
